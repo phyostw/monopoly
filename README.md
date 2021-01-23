@@ -1,2 +1,2 @@
 # monopoly
-Unfinished monopoly project written in java
+simple monopoly project written in java
